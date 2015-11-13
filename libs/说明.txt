@@ -1,0 +1,20 @@
+支付宝相关jar包
+		alipay.jar
+		
+银联相关jar包及镜像文件
+		UPPayAssistEx.jar
+		UPPayPluginExStd.jar
+		libentryexstd.so
+				
+高德地图相关jar包及镜像文件
+		AMap_Location_v1.4.0.jar (若项目自需要定位功能,只导入该jar包即可)
+		Android_Map_V3.0.jar
+		MapApiServices_V3.0.jar
+		libgdamapv4sdk736.so和libgdamapv4sdk736ex.so
+
+百度推送相关jar包及镜像文件
+		pushservice-4.5.3.48.jar
+		libbdpush_V2_3.so
+		
+微信支付相关jar包
+		libammsdk.jar

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <color name="transparent">#00000000</color>
+    <color name="background">#F4F4F4</color>
+    <color name="background_click">#D5D5D5</color>
+    <color name="white">#FFFFFF</color>
+    <color name="title">#262626</color>
+    <color name="hong">#dc0139</color>
+    <color name="lan">#3094f2</color>
+    <color name="black">#000000</color>
+    <color name="main_n">#1b1815</color>
+    <color name="main_p">#de003b</color>
+    <color name="main_n1">#989797</color>
+    <color name="main_p1">#fad9e2</color>
+    <color name="xian">#dcdcdc</color>
+    <color name="center_top">#5fb8da</color>
+    <color name="center_top_hui">#3c6674</color>
+    <color name="word_black">#383838</color>
+    <color name="set_hui">#2e2e2e</color>
+    <color name="pwd_hui">#d5d5d5</color>
+    <color name="fenlei_sel">#f7f7f7</color>
+    <color name="background_window">#FFE5E5E5</color>
+    
+    <color name="blue_main">#1A85C9</color>
+    <color name="blue_line">#00CDEC</color>
+    <color name="grey_line">#D2D2D2</color>
+    <color name="grey_text">#ABABAB</color>
+    <color name="btn_green">#46D9BF</color>
+    <color name="green_dark">#46BEBF</color>
+    <color name="orange">#FEAF00</color>
+    <color name="main_title_grey">#E5E9EA</color>
+    <color name="picker_bg">#e0e0e0</color>
+    <color name="actionbar_bg">#0099CC</color>
+
+</resources>
